@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/.cache
+/.parcel-cache
+
+# production
+/dist
+
+# misc
+yarn.lock
